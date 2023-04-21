@@ -1,0 +1,50 @@
+﻿Sr. no,Name ,Location,Department,Percentage,Salary
+1,Abhishek,Amravati,ENTC,60,20000
+2,Amit,Nanded,CS,62,25000
+3,Amlan,Banglore,IT ,67,30000
+4,Bhavesh,Akola,MECH,90,35000
+5,Bablu,Yavatmal,CS,87,40000
+6,Chandu,Hydrabad,CHEM,90,45000
+7,Chetan,Amravati,EL,98,50000
+8,Dipak,Delhi,CIVIL,99,55000
+9,Dhiraj,Akola,ENTC,67,60000
+10,David,Satara,ENTC,45,65000
+11,Ganesh,Pune,CS,78,32000
+12,Gopal,Mumbai,CS,66,36000
+13,Himanshu,Pune ,ENTC,88,40000
+14,Hritik,Nagpur,CS,77,44000
+15,Indrajeet,Warud,IT ,59,48000
+16,Jaydeep,Morshi,MECH,60,52000
+17,Kapil,Karantaka,CS,81,56000
+18,Karan,Amravati,CHEM,76,60000
+19,Lalit,Pune,EL,88,64000
+20,Lokesh,Kolhapur,CIVIL,99,68000
+21,Manish,Sangli,ENTC,98,72000
+22,Mahendra,Paratwada,ENTC,97,76000
+23,Naresh,Moshi,CS,59,70000
+24,Omkar,Amravati,CS,70,72000
+25,Prathmesh,Nanded,ENTC,66,74000
+26,Rajat,Banglore,CS,65,76000
+27,Saurbh,Akola,IT ,69,78000
+28,Shubham,Yavatmal,MECH,71,80000
+29,Sunny,Hydrabad,CS,73,82000
+30,Tanmay,Amravati,CHEM,74,84000
+31,Utkarsh,Delhi,EL,75,86000
+32,Ujwal,Akola,CIVIL,89,88000
+33,Vaibhav,Satara,ENTC,90,90000
+34,Vendant,Pune,ENTC,87,92000
+35,Vishal,Mumbai,CS,66,44000
+36,Virag,Pune ,CS,67,48000
+37,Virendra,Nagpur,ENTC,69,52000
+38,Washington,Warud,CS,60,56000
+39,Yogesh,Morshi,IT ,99,60000
+40,john,Karantaka,MECH,80,64000
+41,Virat,Amravati,CS,100,68000
+42,Aniket,Pune,CHEM,56,72000
+43,Mangesh,Kolhapur,EL,87,76000
+44,Praveen,Sangli,CIVIL,67,80000
+45,Vaishanv,Paratwada,ENTC,65,84000
+46,Dilip,Moshi,ENTC,64,88000
+47,Prakash,Amravati,CS,67,92000
+48,Vasant,Nanded,CS,69,96000
+49,Sumant,Banglore,ENTC,75,100000
