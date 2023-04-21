@@ -1,0 +1,1 @@
+# Fire-SQL-queries-in-your-IDE
